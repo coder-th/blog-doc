@@ -45,8 +45,8 @@ jobs:
         run: yarn --frozen-lockfile
 
       # 运行构建脚本
-      - name: Build VuePress site
-        run: yarn docs:build
+      - name: Build Blog site
+        run: yarn build
 
       # # 部署到服务器
       - name: Deploy to Server
