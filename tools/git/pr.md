@@ -18,7 +18,7 @@ pr项目时需要一般需要至少两个项目，为了下文方便说明，被
 
 `git remote -v`,不出意外的话，我们可以看到这样的结果。之后我们的代码编写也都在这个项目进行的。
 
-![image-20211011120022310](/Users/liweihao/Library/Application Support/typora-user-images/image-20211011120022310.png)
+![](https://cdn.jsdelivr.net/gh/coder-th/static/202110111251313.png)
 
 #### `Remote管理`
 
@@ -42,6 +42,6 @@ pr项目时需要一般需要至少两个项目，为了下文方便说明，被
 
 ![](https://cdn.jsdelivr.net/gh/coder-th/static/202110111232740.png)
 
-然后你就静静等待你的提交就被通过就可以了。![image-20211011123436200](/Users/liweihao/Library/Application Support/typora-user-images/image-20211011123436200.png)
+然后你就静静等待你的提交就被通过就可以了。![](https://cdn.jsdelivr.net/gh/coder-th/static/202110111251538.png)
 
 然后你就成为某个仓库的`contributor`了，是不是很神奇，快去试试吧~~
