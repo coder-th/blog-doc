@@ -9,6 +9,10 @@ const GitConfig = {
       text: 'git分支管理',
       link: '/tools/git/branch',
     },
+    {
+      text: 'git的pr操作',
+      link: '/tools/git/pr',
+    },
   ],
 };
 
