@@ -13,6 +13,9 @@ module.exports = {
   lang: 'zh-CN',
   description: '记录学习历程',
   head: createHead(),
+  markdown: {
+    extractHeaders: ['h2', 'h3', 'h4'],
+  },
   themeConfig: {
     logo: '/logo.png',
     docsBranch: 'main',
