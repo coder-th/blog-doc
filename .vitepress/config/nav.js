@@ -57,6 +57,14 @@ function createNav() {
         },
       ],
     },
+    {
+      text: '算法',
+      items: [{ text: '树', link: '/algorithm/树/树的基本概念' }],
+    },
+    {
+      text: 'go',
+      items: [{ text: '基础', link: '/go/基础/环境准备' }],
+    },
   ];
 }
 module.exports = {
