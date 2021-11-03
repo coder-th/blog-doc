@@ -10,6 +10,10 @@ const GoConfig = {
       text: '变量',
       link: baseUrl + '/基础/变量',
     },
+    {
+      text: '基本类型',
+      link: baseUrl + '/基础/基本类型',
+    },
   ],
 };
 
