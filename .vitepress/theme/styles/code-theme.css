@@ -1,5 +1,6 @@
 [class*='language-'] code {
-  color: inherit;
+  /* color: inherit; */
+  color: aliceblue;
 }
 
 code[class*='language-'],
@@ -11,7 +12,7 @@ pre[class*='language-'] {
   word-spacing: normal;
   word-break: normal;
   word-wrap: normal;
-  line-height: 1.5;
+  /* line-height: 1.5; */
 
   -moz-tab-size: 4;
   -o-tab-size: 4;
@@ -68,7 +69,8 @@ pre[class*='language-'] {
 .token.comment,
 .token.prolog,
 .token.cdata {
-  color: rgb(99, 119, 119);
+  /* color: rgb(99, 119, 119); */
+  color: #389e0d;
 }
 
 .token.punctuation {
@@ -161,7 +163,7 @@ html.light pre[class*='language-'] {
   word-spacing: normal;
   word-break: normal;
   word-wrap: normal;
-  line-height: 1.5;
+  /* line-height: 1.5; */
 
   -moz-tab-size: 4;
   -o-tab-size: 4;
@@ -218,7 +220,8 @@ html.light :not(pre) > code[class*='language-'] {
 html.light .token.comment,
 html.light .token.prolog,
 html.light .token.cdata {
-  color: rgb(152, 159, 177);
+  /* color: rgb(152, 159, 177); */
+  color: #389e0d;
 }
 
 html.light .token.punctuation {

@@ -14,7 +14,8 @@ module.exports = {
   description: '记录学习历程',
   head: createHead(),
   markdown: {
-    extractHeaders: ['h2', 'h3', 'h4'],
+    extractHeaders: ['h2', 'h3', 'h4', 'h5'],
+    lineNumbers: true,
   },
   themeConfig: {
     logo: '/logo.png',

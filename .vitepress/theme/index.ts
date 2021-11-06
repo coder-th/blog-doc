@@ -7,7 +7,7 @@ import 'windi-utilities.css';
 import './styles/var.css';
 import './styles/custom.css';
 import './styles/layout.css';
-import './styles/code-theme.css';
+// import './styles/code-theme.css';
 
 export default {
   ...Theme,
