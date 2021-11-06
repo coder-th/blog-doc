@@ -26,6 +26,7 @@ const GoConfig = {
     { text: '结构体', link: baseUrl + '/基础/结构体' },
     { text: '结构体的方法与继承', link: baseUrl + '/基础/结构体的方法与继承' },
     { text: '接口', link: baseUrl + '/基础/接口' },
+    { text: 'pacakge和第三方包', link: baseUrl + '/基础/pacakge和第三方包' },
   ],
 };
 
