@@ -24,5 +24,6 @@ module.exports = {
     editLinkText: '为此页提供修改建议',
     nav: createNav(),
     sidebar: createSidebar(),
+    
   },
 };
