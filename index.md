@@ -13,5 +13,4 @@ features:
 - title: 轮子探索
   details: 学习参考一系列轮子，模仿或者创造轮子，不断思考。
 # footer: <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备19058798号</a>
-# footer: <a href="https://github.com/Mister-Hope">Mr.Hope</a>
 ---
